@@ -17,7 +17,8 @@ This project explores HR data to uncover insights related to employee demographi
 
 ## 📊 Visual Snapshot
 
-![tenure_vs_performance_by_gender](tenure_vs_performance_by_gender.jpg)
+![tenure_vs_performance_by_gender](https://raw.githubusercontent.com/Pranjal-dubey49/HR-Analytics-Dashboard/main/tenure_vs_performance_by_gender.jpg)
+
 
 ## 🛠️ Tools Used
 
